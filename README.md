@@ -14,7 +14,7 @@ thats it, i was bored so made it.
 5. enjoy
 
 ### Controls:
-W and S => Left bar up and down
-Arrow up and Arrow down => right bar up and down
+- W and S => Left bar up and down
+- Arrow up and Arrow down => right bar up and down
 
 bye <3
