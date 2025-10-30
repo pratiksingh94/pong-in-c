@@ -1,6 +1,8 @@
 # Pong, in C 
 thats it, i was bored so made it.
 
+![gif](./assets/game.gif)
+
 ### Libraries used:
 - [raylib](https://github.com/raysan5/raylib)
 
