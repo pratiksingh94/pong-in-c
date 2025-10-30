@@ -1,7 +1,7 @@
 # Pong, in C 
 thats it, i was bored so made it.
 
-![gif](./assets/game.gif)
+![gif](./assets/pong.gif)
 
 ### Libraries used:
 - [raylib](https://github.com/raysan5/raylib)
@@ -12,5 +12,9 @@ thats it, i was bored so made it.
 3. run `make` in root of repo
 4. run `./build/main`
 5. enjoy
+
+### Controls:
+W and S => Left bar up and down
+Arrow up and Arrow down => right bar up and down
 
 bye <3
